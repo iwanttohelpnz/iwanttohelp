@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "organisationId": 32585,
+    "name": "Aiga Salevalasi Charitable Trust",
+    "charityRegistrationNumber": "CC48103",
+    "webSite": "www.aigasalevalasichildcare.com",
+    "telephone1": "09 818 2504",
+    "city": "Auckland",
+    "streetLine1": "2 Clayburn Road",
+    "streetLine2": "",
+    "postcode": "0602",
+    "suburb": "Glen Eden",
+    "email": "salevalasi@xtra.co.nz",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      },
+      {
+        "beneficiaryId": 2,
+        "name": "Family/whanau"
+      },
+      {
+        "beneficiaryId": 3,
+        "name": "People of a certain ethnic/racial origin"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 2,
+        "name": "Community development"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  }
+]

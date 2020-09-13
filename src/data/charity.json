@@ -1,0 +1,34 @@
+{
+  "id": 2,
+  "organisationId": 32589,
+  "name": "Music Futures Incorporated",
+  "charityRegistrationNumber": "CC48539",
+  "webSite": "www.musicfutures.org.nz",
+  "telephone1": "04 977 6691",
+  "city": "Wellington",
+  "streetLine1": "17 Helen Street",
+  "streetLine2": null,
+  "postcode": "6021",
+  "suburb": "Brooklyn",
+  "email": "musicfuturesnz@gmail.com",
+  "beneficiaries": [
+    {
+      "beneficiaryId": 1,
+      "name": "Children/young people"
+    }
+  ],
+  "sectors": [
+    {
+      "sectorId": 1,
+      "name": "Arts/culture/heritage"
+    },
+    {
+      "sectorId": 3,
+      "name": "Education/training/research"
+    },
+    {
+      "sectorId": 4,
+      "name": "Fund-raising"
+    }
+  ]
+}

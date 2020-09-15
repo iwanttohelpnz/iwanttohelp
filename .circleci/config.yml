@@ -13,11 +13,13 @@ workflows:
   codecov-report:
     jobs:
       - codecov
-
 jobs:
   codecov:
+    docker:
+      - image: circleci/node:12.4
+    working_directory: ~/repo
     steps:
-    - checkout
-    - run: npm install
-    - run: npm run test-coverage
-    - run: npm run codecov
+      - checkout
+      - run: npm install
+      - run: npm run test-coverage
+      - run: npm run codecov

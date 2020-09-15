@@ -10,7 +10,9 @@ workflows:
   heroku_deploy:
     jobs:
       - heroku/deploy-via-git
-  - codecov
+  codecov-report:
+    jobs:
+      - codecov
 
 jobs:
   codecov:

@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
+    "dev": "nodemon src/index.js -e js,hbs,css",
     "test": "mocha 'test/**/*.js' --exit",
     "lint": "eslint .",
     "test-coverage": "nyc mocha 'test/**/*.js' --exit",

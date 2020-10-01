@@ -4,6 +4,14 @@ body {
   flex-direction: column;
 }
 
+nav .nav-wrapper {
+  margin: 40px;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #ff0000;
+}
+
 main {
   flex: 1 0 auto;
 }

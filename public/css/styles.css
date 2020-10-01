@@ -5,7 +5,7 @@ body {
 }
 
 nav .nav-wrapper {
-  margin: 40px;
+  margin: 30px;
 }
 
 .slider .indicators .indicator-item.active {
@@ -16,6 +16,30 @@ main {
   flex: 1 0 auto;
 }
 
-nav .brand-logo {
-  padding: 0 15px;
+.charity-list-item {
+  margin: 10px;
+}
+
+.item-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.item-details > div{
+  margin-top: 5px;
+}
+
+.item-details .item-sectors {
+  margin: 30px 0 15px 0;
+}
+
+span.badge {
+  margin: 0 14px 0 0;
+  float: none;
+}
+
+span.badge.new {
+  font-weight: 600;
+  font-size: 0.8em;
+  padding: 4px;
 }

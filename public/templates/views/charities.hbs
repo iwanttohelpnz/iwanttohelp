@@ -1,0 +1,46 @@
+<html>
+
+<head>
+    <title>I Want To Help</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1">
+    <link rel="stylesheet" href="/css/materialize.css">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<body>
+
+{{>header}}
+
+<main>
+    <div class="container">
+        <ul>
+            {{#each charities}}
+                <li class="charity-list-item" id="charity-{{this.id}}">
+                    <div class="item-details">
+                        <div class="item-title">{{this.name}}</div>
+                        <div class="item-city">{{this.city}}</div>
+                        <div class="item-website"><a href="//{{this.webSite}}" target="_blank">{{this.webSite}}</a>
+                        </div>
+                        <div class="item-sectors">
+                            {{#each sectors}}
+                                <span class="new badge red" data-badge-caption="">{{this.name}}</span>
+                            {{/each}}
+                        </div>
+                    </div>
+                </li>
+                <div class="divider"></div>
+            {{/each}}
+        </ul>
+    </div>
+
+
+</main>
+
+{{>footer}}
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="js/materialize.js"></script>
+</body>
+
+</html>

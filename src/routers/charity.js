@@ -6,8 +6,8 @@ const charities = require('../data/charities')
 const charity = require('../data/charity')
 
 
-router.get('/charity', async(req, res) => {
-    res.status(200).send(charities)
+router.get('/charities', async(req, res) => {
+    res.status(200).render('charities', {charities: charities})
 })
 
 router.get('/charity/:id', async(req, res) => {

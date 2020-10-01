@@ -2,7 +2,7 @@ const express = require('express')
 const path = require('path')
 const hbs = require('hbs')
 
-const charityRouter = require('./routers/charity')
+const charitiesRouter = require('./routers/charities')
 const indexRouter = require('./routers/index')
 
 //Define paths to express config
@@ -22,7 +22,7 @@ app.use(express.static(publicDirPath))
 app.use(express.json())
 
 //Routers
-app.use(charityRouter)
+app.use(charitiesRouter)
 app.use(indexRouter)
 
 module.exports = app

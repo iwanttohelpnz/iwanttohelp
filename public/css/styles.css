@@ -5,7 +5,7 @@ body {
 }
 
 nav .nav-wrapper {
-  margin: 30px;
+  margin: 0 30px 0 30px;
 }
 
 .slider .indicators .indicator-item.active {

@@ -1,14 +1,13 @@
 const chai = require('chai')
 const chaiHttp = require('chai-http')
-const server = require('../../src/index')
+const server = require('../test-server')
 const {describe, it} = require('mocha');
 chai.use(chaiHttp)
 
-
-describe('Charity router tests', () => {
-    /*it('Should return all charities when get without id', function (done) {
+describe('Search router tests', () => {
+    it('Should return all charities when get /search/charities', function (done) {
         chai.request(server)
-            .get('/charities')
+            .get('/search/charities')
             .set('Content-Type', 'application/json')
             .send()
             .then((response) => {
@@ -16,11 +15,11 @@ describe('Charity router tests', () => {
                 chai.assert.equal(response.body.length, 2)
                 done()
             })
-    })*/
+    })
 
-    it('Should return one charity when get has a valid id', function (done) {
+    it('Should return one charity when get /search/charities/:id has a valid id', function (done) {
         chai.request(server)
-            .get('/charities/2')
+            .get('/search/charities/2')
             .set('Content-Type', 'application/json')
             .send()
             .then((response) => {
@@ -32,9 +31,9 @@ describe('Charity router tests', () => {
             })
     })
 
-    it('Should return one charity when get has an invalid id', function (done) {
+    it('Should return 404 when get /search/charities/:id has an invalid id', function (done) {
         chai.request(server)
-            .get('/charities/123456')
+            .get('/search/charities/123456')
             .set('Content-Type', 'application/json')
             .send()
             .then((response) => {

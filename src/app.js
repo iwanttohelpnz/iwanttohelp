@@ -4,6 +4,7 @@ const hbs = require('hbs')
 
 const charitiesRouter = require('./routers/charities')
 const indexRouter = require('./routers/index')
+const searchRouter = require('./routers/search')
 
 //Define paths to express config
 const publicDirPath = path.join(__dirname, '../public')
@@ -11,6 +12,7 @@ const viewsPath = path.join(__dirname, '../public/templates/views')
 const partialsPath = path.join(__dirname, '../public/templates/partials')
 
 const app = express()
+app.disable('etag');
 
 //Setup handlebars engine and view location
 app.set('view engine', 'hbs')
@@ -22,7 +24,8 @@ app.use(express.static(publicDirPath))
 app.use(express.json())
 
 //Routers
-app.use(charitiesRouter)
 app.use(indexRouter)
+app.use('/charities',charitiesRouter)
+app.use('/search',searchRouter)
 
 module.exports = app

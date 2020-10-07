@@ -31,14 +31,14 @@
 \{{#each charities}}
         <li class="charity-list-item" id="charity-\{{this.id}}">
             <div class="item-details">
-                <div class="item-title">\{{name}}</div>
+                <div class="item-title"> <a href="/charity/\{{this.id}}" target="_blank">\{{name}}</a></div>
                 <div class="item-city">\{{this.city}}</div>
                 <div class="item-website">
                     <a href="//\{{this.webSite}}" target="_blank">\{{this.webSite}}</a>
                 </div>
                 <div class="item-sectors">
                     \{{#each sectors}}
-                        <span class="new badge red" data-badge-caption="">\{{this.name}}</span>
+                        <span class="new badge" data-badge-caption="">\{{this.name}}</span>
                     \{{/each}}
                 </div>
             </div>

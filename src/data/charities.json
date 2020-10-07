@@ -70,5 +70,620 @@
         "name": "Fund-raising"
       }
     ]
+  },
+  {
+    "id": 3,
+    "organisationId": 32586,
+    "name": "Community Living Limited",
+    "charityRegistrationNumber": "CC48519",
+    "webSite": "www.communityliving.org.nz",
+    "telephone1": "07 834 3700",
+    "city": "Hamilton",
+    "streetLine1": "180 Collingwood Street",
+    "streetLine2": null,
+    "postcode": "3204",
+    "suburb": "Hamilton Lake",
+    "email": "lee.owens@communityliving.org.nz",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 5,
+        "name": "People with disabilities"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "organisationId": 32589,
+    "name": "Journey New Zealand Trust",
+    "charityRegistrationNumber": "CC50425",
+    "webSite": "www.journeynz.org",
+    "telephone1": "0212047173",
+    "city": "Kaiwaka",
+    "streetLine1": "79 Echo Valley Road",
+    "streetLine2": "RD 2",
+    "postcode": "0573",
+    "suburb": "Mangawhai",
+    "email": "info@journeynz.org",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 4,
+        "name": "General public"
+      }, {
+        "beneficiaryId": 5,
+        "name": "People with disabilities"
+      },
+      {
+        "beneficiaryId": 5,
+        "name": "Religious groups"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 8,
+        "name": "Health"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 9,
+        "name": "Promotion of volunteering"
+      },
+      {
+        "sectorId": 10,
+        "name": "Religious activities"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-5",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures5.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz5@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-6",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures6.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz6@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-7",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures7.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz7@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-8",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures8.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz8@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-9",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures9.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz9@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-10",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures10.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz10@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-11",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures11.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz11@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-12",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures12.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz12@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-13",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures13.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz13@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-14",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures14.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz14@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-15",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures15.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz15@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-16",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures16.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz16@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-17",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures-17.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz17@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-18",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures18.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz18@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-19",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures19.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz19@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "organisationId": 32589,
+    "name": "Music Futures Incorporated-20",
+    "charityRegistrationNumber": "CC48539",
+    "webSite": "www.musicfutures20.org.nz",
+    "telephone1": "04 977 6691",
+    "city": "Wellington",
+    "streetLine1": "17 Helen Street",
+    "streetLine2": null,
+    "postcode": "6021",
+    "suburb": "Brooklyn",
+    "email": "musicfuturesnz20@gmail.com",
+    "beneficiaries": [
+      {
+        "beneficiaryId": 1,
+        "name": "Children/young people"
+      }
+    ],
+    "sectors": [
+      {
+        "sectorId": 1,
+        "name": "Arts/culture/heritage"
+      },
+      {
+        "sectorId": 3,
+        "name": "Education/training/research"
+      },
+      {
+        "sectorId": 4,
+        "name": "Fund-raising"
+      }
+    ]
   }
 ]

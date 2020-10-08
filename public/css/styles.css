@@ -65,3 +65,14 @@ span.badge.new {
 .dark-muted-blue {
   background-color: #485CD2;
 }
+
+.charity-detail {
+  margin: 15px 0 10px 0;
+}
+
+.charity-detail .title {
+  margin: 10px 0 10px 0;
+  color: #67519F;
+  font-size:30px;
+  font-weight: bold;
+}

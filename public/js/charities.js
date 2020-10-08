@@ -1,6 +1,5 @@
 $(document).ready(function () {
     searchCharities()
-
 })
 
 function searchCharities() {

@@ -12,7 +12,7 @@ describe('Search router tests', () => {
             .send()
             .then((response) => {
                 chai.assert.equal(response.status, 200)
-                chai.assert.equal(response.body.length, 2)
+                chai.assert.equal(response.body.length, 20)
                 done()
             })
     })

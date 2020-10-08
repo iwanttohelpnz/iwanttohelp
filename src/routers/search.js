@@ -11,7 +11,8 @@ router.get('/charities', async (req, res) => {
 })
 
 router.get('/charities/:id', async (req, res) => {
-    if (req.params.id === '2') {
+    const id = req.params.id
+    if (id) {
         res.status(200)
             .send(charity)
     }

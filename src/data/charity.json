@@ -30,5 +30,6 @@
       "sectorId": 4,
       "name": "Fund-raising"
     }
-  ]
+  ],
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nunc erat, porttitor et ante eu, lobortis vehicula est. <br/> Maecenas nec gravida arcu. Vestibulum fringilla tempor efficitur. Fusce ut tempus tortor. Vestibulum sit amet enim eu nunc imperdiet tempor vitae vel felis. <br/><br/> Vestibulum diam enim, feugiat vel egestas at, accumsan a velit. </br>Donec mollis turpis sed tortor auctor, id ornare nisi porttitor. Sed ullamcorper leo quis elementum facilisis. Quisque quis euismod justo. Donec id auctor sem. Integer eu lorem semper, efficitur tortor eget, vehicula turpis. Praesent volutpat, libero a faucibus congue, magna nulla porta magna, quis blandit dui nisi ac elit."
 }

@@ -76,3 +76,16 @@ span.badge.new {
   font-size:30px;
   font-weight: bold;
 }
+
+.description-detail {
+  margin-top: 20px;
+}
+
+#charity-logo {
+  margin-top: 10px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}

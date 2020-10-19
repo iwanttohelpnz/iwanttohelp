@@ -29,9 +29,22 @@
 {{> footer}}
 
 <script id="charity-detail-template" type="text/x-handlebars-template">
-    <div class="title">\{{name}}</div>
-    <div class="description-title">Description</div>
-    <div class="description-detail">\{{{description}}}</div>
+    <div class="row flex">
+        <div class="col s4 valign-wrapper">
+        <img id="charity-logo" class="center-align" src="/img/charity.jpg"/>
+        </div>
+         <div class="col s8">
+            <div class="title">\{{name}}</div>
+            <div class="divider"></div>
+
+            <div class="description-detail">\{{{description}}}</div>
+         </div>
+    </div>
+
+
+
+
+
 </script>
 
 </body>

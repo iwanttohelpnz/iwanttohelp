@@ -2,10 +2,15 @@ env:
   commonjs: true
   node: true
   es2021: true
+  jquery: true
+  browser: true
 extends: 'eslint:recommended'
+globals:
+  Handlebars: true
 parserOptions:
   ecmaVersion: 12
-rules: {
-  "quotes": ["error", "single"],
-   "semi": [2, "always"]
-}
+ignorePatterns: ["materialize.*"]
+rules:
+  quotes: ["error", "single"]
+  semi: [2, "always"]
+  semi-style: ["error", "last"]

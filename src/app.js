@@ -25,9 +25,9 @@ app.use(express.static(publicDirPath));
 app.use(express.json());
 
 //Routers
-app.use(indexRouter)
+app.use(indexRouter);
 app.use('/charities', charitiesRouter);
 app.use('/search', searchRouter);
-app.use("*", notFoundRouter);
+app.use('*', notFoundRouter);
 
 module.exports = app;

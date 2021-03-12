@@ -8,7 +8,7 @@ const charity = require('../data/charity');
 router.get('/charities', async (req, res) => {
     res.status(200)
         .send(charities);
-})
+});
 
 router.get('/charities/:id', async (req, res) => {
     const id = req.params.id;

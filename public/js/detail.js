@@ -1,11 +1,11 @@
 $(document).ready(function () {
     const id = $('#charity-id').val();
     searchCharity(id);
-})
+});
 
 function searchCharity(id) {
     $.get(`/search/charities/${id}`, function (data) {
-        console.log("passou");
+        console.log('passou');
         let charityDetailTemplate = $('#charity-detail-template').html();
         let charityDetail = $('.charity-detail');
 

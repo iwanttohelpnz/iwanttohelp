@@ -85,6 +85,11 @@ span.badge.new {
   margin-top: 10px;
 }
 
+#not-found-logo {
+  width: 800px;
+  margin-bottom: 20px;
+}
+
 .flex {
   display: flex;
   flex-wrap: wrap;

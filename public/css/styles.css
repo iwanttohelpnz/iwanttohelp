@@ -5,7 +5,7 @@ body {
 }
 
 nav .nav-wrapper {
-  margin: 0 30px 0 30px;
+  margin:0 30px;
 }
 
 .slider .indicators .indicator-item.active {
@@ -47,7 +47,7 @@ main {
 }
 
 .item-details .item-sectors {
-  margin: 30px 0 15px 0;
+  margin: 30px 0 15px;
 }
 
 span.badge {
@@ -67,11 +67,11 @@ span.badge.new {
 }
 
 .charity-detail {
-  margin: 15px 0 10px 0;
+  margin: 15px 0 10px;
 }
 
 .charity-detail .title {
-  margin: 10px 0 10px 0;
+  margin: 10px 0;
   color: #67519F;
   font-size:30px;
   font-weight: bold;

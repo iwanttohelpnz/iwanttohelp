@@ -1,5 +1,5 @@
-[![CircleCI](https://circleci.com/gh/vanessavps/iwanttohelp.svg?style=svg)](https://circleci.com/gh/vanessavps/iwanttohelp)
-[![codecov](https://codecov.io/gh/vanessavps/iwanttohelp/branch/master/graph/badge.svg)](https://codecov.io/gh/vanessavps/iwanttohelp)
-[![CodeFactor](https://www.codefactor.io/repository/github/vanessavps/iwanttohelp/badge)](https://www.codefactor.io/repository/github/vanessavps/iwanttohelp)
+[![CircleCI](https://circleci.com/gh/iwanttohelpnz/iwanttohelp.svg?style=svg)](https://circleci.com/gh/iwanttohelpnz/iwanttohelp)
+[![codecov](https://codecov.io/gh/iwanttohelpnz/iwanttohelp/branch/master/graph/badge.svg)](https://codecov.io/gh/iwanttohelpnz/iwanttohelp)
+[![CodeFactor](https://www.codefactor.io/repository/github/iwanttohelpnz/iwanttohelp/badge)](https://www.codefactor.io/repository/github/iwanttohelpnz/iwanttohelp)
 
 # I Want To Help
